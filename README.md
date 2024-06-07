@@ -13,7 +13,7 @@ O AquaInsight é um sistema de banco de dados baseado em Python projetado para a
 # Instruções de Uso
 
 - Clonar o Repositório:
-git clone https://github.com/yourusername/AquaInsight.git
+git clone https://github.com/GabrielBarros0602/GlobalSolution_Python.git
 - Navegar até o Diretório:
 cd AquaInsight
 - Executar o Programa
